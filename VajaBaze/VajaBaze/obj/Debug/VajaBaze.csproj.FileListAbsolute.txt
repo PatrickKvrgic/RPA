@@ -1,0 +1,12 @@
+D:\RPA\VajaBaze\VajaBaze\bin\Debug\VajaBaze.exe.config
+D:\RPA\VajaBaze\VajaBaze\bin\Debug\VajaBaze.exe
+D:\RPA\VajaBaze\VajaBaze\bin\Debug\VajaBaze.pdb
+D:\RPA\VajaBaze\VajaBaze\bin\Debug\EntityFramework.dll
+D:\RPA\VajaBaze\VajaBaze\bin\Debug\EntityFramework.SqlServer.dll
+D:\RPA\VajaBaze\VajaBaze\bin\Debug\EntityFramework.xml
+D:\RPA\VajaBaze\VajaBaze\bin\Debug\EntityFramework.SqlServer.xml
+D:\RPA\VajaBaze\VajaBaze\obj\Debug\VajaBaze.csproj.AssemblyReference.cache
+D:\RPA\VajaBaze\VajaBaze\obj\Debug\VajaBaze.csproj.CoreCompileInputs.cache
+D:\RPA\VajaBaze\VajaBaze\obj\Debug\VajaBaze.csproj.CopyComplete
+D:\RPA\VajaBaze\VajaBaze\obj\Debug\VajaBaze.exe
+D:\RPA\VajaBaze\VajaBaze\obj\Debug\VajaBaze.pdb
