@@ -1,0 +1,15 @@
+D:\RPA\VajaCSV\VajaCSV\bin\Debug\VajaCSV.exe.config
+D:\RPA\VajaCSV\VajaCSV\bin\Debug\VajaCSV.exe
+D:\RPA\VajaCSV\VajaCSV\bin\Debug\VajaCSV.pdb
+D:\RPA\VajaCSV\VajaCSV\obj\Debug\VajaCSV.csproj.AssemblyReference.cache
+D:\RPA\VajaCSV\VajaCSV\obj\Debug\MainWindow.g.cs
+D:\RPA\VajaCSV\VajaCSV\obj\Debug\App.g.cs
+D:\RPA\VajaCSV\VajaCSV\obj\Debug\VajaCSV_MarkupCompile.cache
+D:\RPA\VajaCSV\VajaCSV\obj\Debug\VajaCSV_MarkupCompile.lref
+D:\RPA\VajaCSV\VajaCSV\obj\Debug\MainWindow.baml
+D:\RPA\VajaCSV\VajaCSV\obj\Debug\VajaCSV.g.resources
+D:\RPA\VajaCSV\VajaCSV\obj\Debug\VajaCSV.Properties.Resources.resources
+D:\RPA\VajaCSV\VajaCSV\obj\Debug\VajaCSV.csproj.GenerateResource.cache
+D:\RPA\VajaCSV\VajaCSV\obj\Debug\VajaCSV.csproj.CoreCompileInputs.cache
+D:\RPA\VajaCSV\VajaCSV\obj\Debug\VajaCSV.exe
+D:\RPA\VajaCSV\VajaCSV\obj\Debug\VajaCSV.pdb
