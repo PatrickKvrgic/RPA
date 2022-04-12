@@ -48,11 +48,18 @@ namespace DrugaMVC.Controllers
             return View(miha);
         }
         [HttpPost]
-        public ActionResult Edit([Bind(Include ="StudentID,StudentName")] Student std)
+        public ActionResult Edit([Bind(Include = "StudentID, StudentName, Age")] Student std)
         {
-            string x = std.StudentName;
-            //dejansko posodobi bazo
-            return RedirectToAction("Index");
+            if (ModelState.IsValid)
+            {
+                string x = std.StudentName;
+                //dejansko posodobi bazo
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return View(std);
+            }
         }
     }
 }
